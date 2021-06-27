@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kool Kids Webhook Chat:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Kool_Kids_Webhook_Chat_jar</output-path>
+    <root id="archive" name="Kool Kids Webhook Chat.jar">
+      <element id="module-output" name="Webhook Sender GUI" />
+    </root>
+  </artifact>
+</component>
